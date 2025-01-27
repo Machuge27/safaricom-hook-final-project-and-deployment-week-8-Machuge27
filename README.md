@@ -54,6 +54,9 @@ The goal of this assignment is to create a **multipage website** that is fully d
 
 2. **Live Website**:
    - Provide a **link to the live website** deployed on your chosen hosting platform (GitHub Pages, Netlify, or Vercel).
+
+   Live on [Github pages](https://machuge27.github.io/safaricom-hook-final-project-and-deployment-week-8-Machuge27/)
+
    - Ensure that the website is fully functional, responsive, and looks good across devices.
 
 3. **Documentation**:

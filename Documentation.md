@@ -5,7 +5,7 @@
 ## **Overview**
 The **EasyMove Relocation Services Website** is a multipage, responsive website designed to assist users with relocation services. It provides information about the company, its services, and a way for users to contact the team. The website is built using **HTML5**, **CSS3**, and **JavaScript**, with a focus on modern design trends and user experience.
 
-[Live page]()
+[Live page](https://machuge27.github.io/safaricom-hook-final-project-and-deployment-week-8-Machuge27/)
 
 ---
 
